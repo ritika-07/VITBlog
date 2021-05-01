@@ -21,7 +21,7 @@ connections can prove to be beneficial to students in their professional life in
 ![Login](https://github.com/ritika-07/VITBlog/blob/master/login.gif)
 
 ## ER Diagram
-![ER Diagram](https://github.com/ritika-07/VITBlog/blob/master/er%20iwp.png)
+<img src="https://github.com/ritika-07/VITBlog/blob/master/er%20iwp.png" width=600>
 
 ## Features
 - Home Page displays articles in chronological order.
@@ -44,4 +44,4 @@ connections can prove to be beneficial to students in their professional life in
 - Manage posts published by them
 
 ### Task Analysis
-![Task Analysis](https://github.com/ritika-07/VITBlog/blob/master/task%20analysis%20iwp.png)
+<img src="https://github.com/ritika-07/VITBlog/blob/master/task%20analysis%20iwp.png" width=600>
