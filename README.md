@@ -15,10 +15,10 @@ connections can prove to be beneficial to students in their professional life in
 
 ## User Interface
 #### Home Page
-![Alt Text](https://github.com/ritika-07/VITBlog/blob/master/Home.gif)
+![Home](https://github.com/ritika-07/VITBlog/blob/master/Home.gif)
 
 #### Login
-![Alt Text](https://github.com/ritika-07/VITBlog/blob/master/login.gif)
+![Login](https://github.com/ritika-07/VITBlog/blob/master/login.gif)
 
 ## ER Diagram
 ![ER Diagram](https://github.com/ritika-07/VITBlog/blob/master/er%20iwp.png)
@@ -44,4 +44,4 @@ connections can prove to be beneficial to students in their professional life in
 - Manage posts published by them
 
 ### Task Analysis
-![Task Analysis](hhttps://github.com/ritika-07/VITBlog/blob/master/task%20analysis%20iwp.png)
+![Task Analysis](https://github.com/ritika-07/VITBlog/blob/master/task%20analysis%20iwp.png)
