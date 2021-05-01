@@ -5,6 +5,24 @@ community where people can share their views and experiences under various
 categories. It can help students network with their peers and connect with alumni. These
 connections can prove to be beneficial to students in their professional life in the future.
 
+## Tech Stack:
+- HTML
+- CSS
+- jQuery
+- PHP
+- mySQL
+- DialogFlow
+
+## User Interface
+#### Home Page
+![Alt Text](https://github.com/ritika-07/VITBlog/blob/master/Home.gif)
+
+#### Login
+![Alt Text](https://github.com/ritika-07/VITBlog/blob/master/login.gif)
+
+## ER Diagram
+![ER Diagram](https://github.com/ritika-07/VITBlog/blob/master/er%20iwp.png)
+
 ## Features
 - Home Page displays articles in chronological order.
 - Blogs categorised under various topics
@@ -25,10 +43,5 @@ connections can prove to be beneficial to students in their professional life in
 - Create posts using their author ID
 - Manage posts published by them
 
-## Tech Stack:
-- HTML
-- CSS
-- jQuery
-- PHP
-- mySQL
-- DialogFlow
+### Task Analysis
+![Task Analysis](hhttps://github.com/ritika-07/VITBlog/blob/master/task%20analysis%20iwp.png)
